@@ -1,0 +1,3 @@
+# Build artifacts (also leak local module-cache paths — keep out of a public repo)
+/bin/
+/dist/
